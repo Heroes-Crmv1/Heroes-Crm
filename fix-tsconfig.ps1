@@ -1,3 +1,4 @@
+Set-Content -Path "tsconfig.json" -Value @"
 {
   "files": [],
   "references": [
@@ -12,3 +13,4 @@
     "ignoreDeprecations": "6.0"
   }
 }
+"@
